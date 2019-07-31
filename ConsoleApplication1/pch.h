@@ -9,6 +9,19 @@
 #ifndef PCH_H
 #define PCH_H
 
+#include <iostream>
+#include <Windows.h>
+#include <conio.h>
+#include <array>
+#include <vector>
+#include <math.h>
+#include <string>
+#include "Display.h"
+#include "InputManager.h"
+
+#include "Constants.h"
+#include "Node.h"
+#include "Table.h"
 // TODO: aggiungere qui le intestazioni da precompilare
 
 #endif //PCH_H
